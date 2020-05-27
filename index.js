@@ -6,3 +6,4 @@ newHeader.id = 'victory';
 
 let name = 'Jamie'
 header = document.getElementById('h1#victory')
+header.innerHTML = ``
